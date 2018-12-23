@@ -22,7 +22,6 @@
 *.war\
 *.nar\
 *.ear\
-.test.rtf.swp\
 *.zip\
 *.tar.gz\
 *.rar\
